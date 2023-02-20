@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on OnePav LTDA<br>👯 I’m looking to collaborate on a Big Tech<br>🤝 I’m looking for help with JS/React and css frameworks<br>🌱 I’m currently learning JavaScript/React<br>💬 Ask me about Front-end Developer<br>⚡ Fun fact
+🔭 I’m currently search of a job<br>👯 I’m looking to collaborate on a Big Tech<br>🤝 I’m looking for help with JS/React and css frameworks<br>🌱 I’m currently learning JavaScript/React<br>💬 Ask me about Front-end Developer<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
